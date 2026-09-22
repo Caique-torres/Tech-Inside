@@ -22,9 +22,9 @@ Uma aplicação web desenvolvida com HTML, CSS e JavaScript, criada para apresen
 
 ##  Tecnologias utilizadas
 
-HTML5  
-CSS3  
-JavaScript  
+- HTML5  
+- CSS3  
+- JavaScript  
 
 ##  Objetivo
 
